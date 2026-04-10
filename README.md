@@ -53,12 +53,9 @@ I am a **Full-Stack Developer** dedicated to building high-performance, responsi
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbitshah&show_icons=true&locale=en&layout=compact" alt="rabbitshah" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbitshah&show_icons=true&locale=en" alt="rabbitshah" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbitshah&" alt="rabbitshah" />
 </p>
 
